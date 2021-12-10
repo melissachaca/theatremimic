@@ -1,0 +1,21 @@
+
+.bottom{
+    background-color: black;
+    color:white;
+}
+.header{
+    position: relative;
+}
+.row {
+    row-gap: 60px;
+
+}
+.month {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bolder;
+    font-size: larger;
+    background-color:lightgrey;
+    border-color: grey;
+
+}
